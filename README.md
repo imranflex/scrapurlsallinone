@@ -1,5 +1,5 @@
 {
-  "name": "my-nextjs-project",
+  "name": "scrapurlsallinone",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
